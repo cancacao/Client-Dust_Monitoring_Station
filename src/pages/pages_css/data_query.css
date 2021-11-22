@@ -1,0 +1,53 @@
+.query_title {
+  width: 100%;
+  margin-top: 2vh;
+}
+
+.query_title_text {
+  text-align: center;
+  color: red;
+  font-size: 4vw;
+  font-weight: bold;
+}
+
+.query_date {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0 3rem;
+
+  /* max-width: 640px; */
+  /* position: absolute; */
+  /* margin-top: 1vh; */
+  /* max-width: max-content; */
+}
+
+.date_from,
+.date_to {
+  width: 25%;
+  /* position: relative; */
+  /* left: 15%; */
+}
+
+.btn_query,
+.btn_export {
+  /* left: 50%; =))) */
+  margin-top: 1.8vh;
+  width: 10vw;
+  color: white;
+  height: 7vh;
+  font-size: 2vw;
+  font-weight: bold;
+  border-radius: 1vw;
+  background-color: hsl(147, 100%, 35%);
+  /* position: relative; */
+  /* left: -5%; */
+}
+
+.export_text {
+  color: white;
+  font-size: 2vw;
+  font-weight: bold;
+}

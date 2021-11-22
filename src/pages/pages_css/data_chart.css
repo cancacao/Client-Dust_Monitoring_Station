@@ -1,0 +1,37 @@
+.chart_title {
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+}
+
+.chart_title_text {
+  display: block;
+  color: red;
+  font-size: 4vw;
+  font-weight: bold;
+}
+
+.chart_date {
+  display: flex;
+  justify-content: center;
+  margin-top: 1vh;
+}
+
+.date_from {
+  width: 25vw;
+}
+
+.date_to {
+  width: 25vw;
+}
+
+.btn_enter {
+  margin-top: 1.8vh;
+  width: 12vw;
+  color: white;
+  height: 7vh;
+  font-size: 2vw;
+  font-weight: bold;
+  border-radius: 1vw;
+  background-color: #00b050;
+}

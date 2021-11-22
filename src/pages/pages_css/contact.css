@@ -1,0 +1,26 @@
+img {
+  position: absolute;
+  top: 30%;
+  left: 12%;
+  width: 25vw;
+  height: auto;
+}
+
+.detail {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+p {
+  font-weight: bold;
+  line-height: 150%;
+  font-size: 3vw;
+}
+
+.odd {
+  color: red;
+}
+
+.even {
+  color: blue;
+}

@@ -1,0 +1,20 @@
+.help {
+  position: absolute;
+  left: 10%;
+  top: 2%;
+}
+
+a:link {
+  font-weight: bold;
+  font-size: 4vw;
+  color: brown;
+  text-decoration: none;
+}
+
+a:active {
+  color: brown;
+}
+
+a:visited {
+  color: brown;
+}
